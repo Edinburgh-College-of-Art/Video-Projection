@@ -64,8 +64,7 @@ Repository of Tools for Video Projection and Installation work.
 - [jit.gl.slab](https://docs.cycling74.com/max7/maxobject/jit.gl.slab) [Jitter Object]
 - [jit.gl.videoplane](https://docs.cycling74.com/max7/maxobject/jit.gl.videoplane) [Jitter Object]
 
-
-### DMX
+### DMX
 
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) (OLA)
 - [Q Light Controller +](https://www.qlcplus.org/) (QLC+)
